@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am curently a student of Mr J
+- I am currently a student of Mr J
 <!--
 **Anna-Mull1/Anna-Mull1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
