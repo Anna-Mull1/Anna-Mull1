@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about anything! no question hurts
 - 📫 How to reach me: email: anna.mullins1@stu.ocsb.ca
-- 😄 Pronouns: Any, it doesnt matter
-- ⚡ Fun fact: Im also learning how to use blender and live2d!
+- 😄 Pronouns: __Any,__ it doesnt matter
+- ⚡ Fun fact: Im also learning how to use __blender__ and __live2d!__
